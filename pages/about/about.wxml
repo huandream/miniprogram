@@ -2,3 +2,6 @@
 <text>about.wxml</text>
 <button size='big'>按钮</button>
 <button size='mini'>按钮</button>
+
+<view>2——第二点</view>
+<view>lalal</view>
