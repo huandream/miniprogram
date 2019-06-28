@@ -1,0 +1,4 @@
+<!--pages/about/about.wxml-->
+<text>about.wxml</text>
+<button size='big'>按钮</button>
+<button size='mini'>按钮</button>

@@ -1,0 +1,6 @@
+/* home.wxss */
+.title {
+  color: #ff7000;
+  font-size: 52rpx;
+  font-weight: bold;
+}
