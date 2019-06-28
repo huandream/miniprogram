@@ -2,3 +2,7 @@
 <text>about.wxml</text>
 <button size='big'>按钮</button>
 <button size='mini'>按钮</button>
+
+
+<view>1.第一点</view>
+<view>随便咯</view>
