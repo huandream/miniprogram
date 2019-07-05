@@ -1,0 +1,26 @@
+<!--pages/wxs/wxs.wxml-->
+<!-- <view>wxs的使用</view>
+
+<wxs module="info">
+  var message = "Hello World";
+  var name = "dream";
+  var sum = function (num1 , num2) {
+    return num1 + num2
+  }
+
+  module.exports = {
+    message: message,
+    name: name,
+    sum: sum
+  }
+</wxs>
+
+<view>{{info.message}}</view>
+<view>{{info.name}}</view>
+<view>{{info.sum(1,2)}}</view> -->
+
+<!-- wxs外部引入使用 -->
+<wxs src="../../wxs/format.wxs" module="format" />
+
+<!-- <view>{{format.priceFormat(price, 2)}}</view> -->
+<view>{{format.dataFormat(time, 'yyyy-MM-dd hh:mm:ss')}}</view>
